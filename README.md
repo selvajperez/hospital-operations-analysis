@@ -50,3 +50,18 @@ hospital-operations-analysis/
 ## Portfolio
 
 https://www.wildsoft.com.ar
+
+## Imágenes del proyecto
+
+### Overview dashboard
+![Overview dashboard](images/01_overview_dashboard.png)
+
+### Revenue pareto
+![Revenue pareto](images/02_revenue_pareto.png)
+
+### Findings ranking
+![Findings ranking](images/03_findings_ranking.png)
+
+### Correlation matrix
+![Correlation matrix](images/04_correlation_matrix.png)
+
