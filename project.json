@@ -1,0 +1,18 @@
+{
+  "title": "Hospital Operations Analysis",
+  "slug": "hospital-operations-analysis",
+  "category": "Data & BI",
+  "summary": "Análisis operativo y financiero de datos hospitalarios con foco en revenue, tipos de paciente, estadías y calidad de datos.",
+  "tools": ["Python", "pandas", "Power BI", "Jupyter Notebook"],
+  "findings": [
+    "Concentración de revenue en pocos aseguradores",
+    "Predominio de pacientes IP",
+    "Altas tardías y estadías superiores al estándar",
+    "Registros asociados a médicos inactivos",
+    "Inconsistencias de calidad de datos"
+  ],
+  "github": "https://github.com/selvajperez/hospital-operations-analysis",
+  "website": "https://www.wildsoft.com.ar",
+  "featured": true,
+  "status": "published"
+}
