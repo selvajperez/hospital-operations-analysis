@@ -31,8 +31,6 @@ Analizar la operación hospitalaria para detectar oportunidades de mejora en ing
 
 ## Visualizaciones
 
-El proyecto incluye dashboards y gráficos orientados a:
-
 - Revenue por asegurador
 - Distribución IP / OP
 - Estadía real vs. esperada
@@ -41,16 +39,14 @@ El proyecto incluye dashboards y gráficos orientados a:
 
 ## Estructura del proyecto
 
-```text
 hospital-operations-analysis/
-├── README.md
-├── project.json
-├── notebook/
-├── data/
-├── images/
-└── dashboard/# hospital-operations-analysis
-Hospital operations &amp; revenue analysis | Python, pandas and Power BI
+- README.md
+- project.json
+- notebook/
+- data/
+- images/
+- dashboard/
 
 ## Portfolio
 
-🌐 https://www.wildsoft.com.ar
+https://www.wildsoft.com.ar
